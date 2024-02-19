@@ -2,7 +2,7 @@
 
 💻 I'm Junior Front-End Developer!
 
-- 📫 How to reach me: https://www.linkedin.com/in/vitor-nickolas/
+📫 How to reach me: https://www.linkedin.com/in/vitor-nickolas/
 
 🏡 I’m from Brazil.
 
