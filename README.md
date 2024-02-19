@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+💻 I'm Junior Front-End Developer!
+
+- 📫 How to reach me: https://www.linkedin.com/in/vitor-nickolas/
+
+🏡 I’m from Brazil.
+
+📚I'm currently a student of systems analysis and development.
+
 <!--
 **vnickolas/vnickolas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
